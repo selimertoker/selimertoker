@@ -1,4 +1,4 @@
-## Hi there 👋
+I am an Electrical and Electronics Engineering student at Bilkent University
 
 <!--
 **selimertoker/selimertoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
